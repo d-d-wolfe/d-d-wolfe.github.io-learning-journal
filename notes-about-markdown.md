@@ -2,7 +2,9 @@
 
 **Basic Syntax**
 1. Headings use the #. 
+
     ### More hashtags means smaller heading
+    
 1. There are a few different ways to style text, ** ** is **bold**, * * is *italic*, etc.
 1. Quoting text is done by starting the quote with >. 
     > This is quoted text.
