@@ -3,7 +3,7 @@
 
 **Introduction**
 
-I'm Dave Wolfe. I've had a lot of different careers in my life and am finally ready to settle down and learn a solid skill. My most recent position was as an End-to-End software test engineer. I realized that there was a lot I didn't know, so I decided to learn coding. I'm very excited and ready to learn. This journal will be used to track my frowth and progress, as a developer.
+I'm Dave Wolfe. I've had a lot of different careers in my life and am finally ready to settle down and learn a solid skill. My most recent position was as an End-to-End software test engineer. I realized that there was a lot I didn't know, so I decided to learn coding. I'm very excited and ready to learn. This journal will be used to track my growth and progress, as a developer.
 
 **Growth Mindset**
 
