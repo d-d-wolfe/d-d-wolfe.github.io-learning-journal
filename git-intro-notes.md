@@ -1,3 +1,5 @@
+[Return Home](https://d-d-wolfe.github.io/learning-journal/)
+
 # Understanding git
 
 **Version Control**
@@ -30,3 +32,4 @@ mistakes by using by using a Version Control System (VCS).
   Commands | Description
   -------- | -----------
   
+[Return Home](https://d-d-wolfe.github.io/learning-journal/)
