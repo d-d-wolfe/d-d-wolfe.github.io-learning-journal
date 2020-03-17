@@ -25,4 +25,8 @@ mistakes by using by using a Version Control System (VCS).
    - Modified - File has been changed but not committed to the database.
    - Staged - The file has been flagged for changes to be committed in the next snapshot.
    
-   
+  **Git Commands**
+  
+  Commands | Description
+  -------- | -----------
+  
