@@ -1,3 +1,5 @@
+[Return Home](https://d-d-wolfe.github.io/learning-journal/)
+
 # The Coder's Computer
 
 **The text editor is one of the most important tools a developer uses.**
@@ -24,3 +26,5 @@ Here are some possible options for Windows Computers:
 
 An IDE is basically a software suite that does more than a Text Editor. An IDE combines a text editor, a file manager, a compiler,
 and a debugger all in one package.
+
+[Return Home](https://d-d-wolfe.github.io/learning-journal/)
