@@ -1,3 +1,5 @@
+[Return Home](https://d-d-wolfe.github.io/learning-journal/)
+
 # Notes about Markdown
 
 **Basic Syntax**
@@ -16,3 +18,5 @@
     - This
     
 This has been a fairly basic idea of what I've learned about **_Markdown_**
+
+[Return Home](https://d-d-wolfe.github.io/learning-journal/)
