@@ -29,7 +29,7 @@
 
 - You can place attributes with an opening tag. Attributes tell us more about what that element contains.
 
--Attributes require a name and a value (i.e.: height="150")
+- Attributes require a name and a value (i.e.: height="150")
 
 - It is important to know what tags are available and what they do and where they can go in the structure.
 
