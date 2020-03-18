@@ -40,4 +40,20 @@
 - Older browsers, like Internet Explorer 8 (and older), that don't understand HTML5, need to be told which 
   elements are block-level elements. Extra JavaScript is needed to make HTML5 elements work, and you can find that code, fro free, on Google.
 
+*Extra Markup*
+
+- DOCTYPES tell browsers which version of HTML you are using
+
+- You can add comments to your code, that won't show on the webpage, by using <!-- -->.
+
+- the id and class elements are used to identify particular elements, and the div and span elements allow you
+  to group block-line and inline elements together.
+
+- To cut a window into your web page that displays another page you can use iframes.
+
+- You can supply all kinds of information about your webpage by using the meta tag.
+
+- If you need to include special characters, on your webpage, that aren't generally on a keyboard, you can use 
+  escape characters like <,> and &#169; 
+
   
