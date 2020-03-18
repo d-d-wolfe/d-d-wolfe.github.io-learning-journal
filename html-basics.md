@@ -18,3 +18,18 @@
 
 - Grouping and similarity help to simplify the information you are presenting.
 
+*Structure*
+
+- HTML pages are basically text documents that use tags (characters inside angle brackets) to give special
+  meaning to the information they surround.
+
+- Tags are also known as elements.
+
+- Usually there is an opening tag and a closing tag, which denote the beginning and end of a piece of content.
+
+- You can place attributes with an opening tag. Attributes tell us more about what that element contains.
+
+-Attributes require a name and a value (i.e.: height="150")
+
+- It is important to know what tags are available and what they do and where they can go in the structure.
+
