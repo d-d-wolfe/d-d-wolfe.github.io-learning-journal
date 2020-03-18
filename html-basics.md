@@ -33,3 +33,11 @@
 
 - It is important to know what tags are available and what they do and where they can go in the structure.
 
+*HTML5 Layout*
+
+- In previous versions of HTML we used multiple <div> elements. The new elements included in HTML5, which indicate the purpose of different parts of a webpage, allow for clearer code.
+
+- Older browsers, like Internet Explorer 8 (and older), that don't understand HTML5, need to be told which 
+  elements are block-level elements. Extra JavaScript is needed to make HTML5 elements work, and you can find that code, fro free, on Google.
+
+  
