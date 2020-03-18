@@ -38,7 +38,7 @@
 - In previous versions of HTML we used multiple <div> elements. The new elements included in HTML5, which indicate the purpose of different parts of a webpage, allow for clearer code.
 
 - Older browsers, like Internet Explorer 8 (and older), that don't understand HTML5, need to be told which 
-  elements are block-level elements. Extra JavaScript is needed to make HTML5 elements work, and you can find that code, fro free, on Google.
+  elements are block-level elements. Extra JavaScript is needed to make HTML5 elements work, and you can find that code, for free, on Google.
 
 *Extra Markup*
 
@@ -54,6 +54,6 @@
 - You can supply all kinds of information about your webpage by using the meta tag.
 
 - If you need to include special characters, on your webpage, that aren't generally on a keyboard, you can use 
-  escape characters like <,> and &#169; 
+  escape characters like <, > and &#169; 
 
-  
+[Return Home](https://d-d-wolfe.github.io/learning-journal/)
