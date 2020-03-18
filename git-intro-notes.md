@@ -31,5 +31,11 @@ mistakes by using by using a Version Control System (VCS).
   
   Commands | Description
   -------- | -----------
+  git clone https://github.com/project | clones a repository to your local hard drive to work on
+  git clone https://github.com/test mydirectory | clones repository to a directory with another name
+  git status | shows the status of any files that are currently in process
+  git add filename | track one file only (also known as staging)
+  git commit -m "comment" | This commits the staged file and adds a comment for the version history
+  git push origin master | This command pushes changes from the local branch to the origin repository
   
 [Return Home](https://d-d-wolfe.github.io/learning-journal/)
