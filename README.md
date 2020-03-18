@@ -18,3 +18,5 @@ I'm Dave Wolfe. I've had a lot of different careers in my life and am finally re
 [Git Intro Notes](https://d-d-wolfe.github.io/learning-journal/git-intro-notes)
 
 [ACP](https://d-d-wolfe.github.io/learning-journal/ACP)
+
+[HTML Basics](https://d-d-wolfe.github.io/learning-journal/html-basics)
