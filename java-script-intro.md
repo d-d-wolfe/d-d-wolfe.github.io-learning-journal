@@ -1,3 +1,5 @@
+[Return Home](https://d-d-wolfe.github.io/learning-journal/)
+
 **JavaScript Intro**
 
 - Although you can insert JavaScript directly into an HTML page, 
@@ -22,3 +24,5 @@
 
 - Variables are used to temporarily store pieces of information that
   is used in the script.
+
+  [Return Home](https://d-d-wolfe.github.io/learning-journal/)
