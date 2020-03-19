@@ -26,3 +26,5 @@ I'm Dave Wolfe. I've had a lot of different careers in my life and am finally re
 [JavaScript Intro](https://d-d-wolfe.github.io/learning-journal/java-script-intro)
 
 [How Computers Work](https://d-d-wolfe.github.io/learning-journal/computers-work)
+
+[Programming JavaScript](https://d-d-wolfe.github.io/learning-journal/programming-js)
