@@ -14,7 +14,7 @@
 - JavaScript does not change the HTML, because the script works with
   the model of the web page that the browser has created.
 
-** Basic JavaScript Instructions**
+**Basic JavaScript Instructions**
 
 - A script is a set of instructions, kind of like the steps in a 
   recipe.
