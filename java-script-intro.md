@@ -7,8 +7,8 @@
   JavaScript file is a text file, just like HTML and CSS files, but
   it uses the .js extension.
 
-- The <script> element is used in an HTML file to tell the browser
-  to load the JavaScript file (just like the <link> element is used
+- The script element is used in an HTML file to tell the browser
+  to load the JavaScript file (just like the link element is used
   to load a CSS file).
 
 - JavaScript does not change the HTML, because the script works with
