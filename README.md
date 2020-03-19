@@ -23,4 +23,4 @@ I'm Dave Wolfe. I've had a lot of different careers in my life and am finally re
 
 [CSS Intro](https://d-d-wolfe.github.io/learning-journal/css-intro)
 
-[JavaScript Intro](https://d-d-wolfe.github.io/learning-journal/java-script-intro))
+[JavaScript Intro](https://d-d-wolfe.github.io/learning-journal/java-script-intro)
